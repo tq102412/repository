@@ -1,0 +1,13 @@
+{
+    "name": "ineplant/repositories",
+    "description": "database repositories for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ineplant",
+            "email": "2756145382@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
