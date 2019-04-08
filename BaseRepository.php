@@ -7,4 +7,5 @@ class BaseRepository {
     protected $model;
 
 
+
 }
